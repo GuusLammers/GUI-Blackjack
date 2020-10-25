@@ -8,8 +8,10 @@ This is a GUI Blackjack game. It is a simplified virsion of casino Blackjack. It
 
 # User Instructions
 1- Save all contents of the folder "GUI Black Jack" on your computer in the same folder.<br />
-2- Open "Black Jack GUI.py" and scroll down till you find the variable "self.directory", the variable is on line 47.
+
+2- Open "Black Jack GUI.py" and scroll down till you find the variable "self.directory", the variable is on line 47. Copy the directory to the folder CardImages contained inside the "Black Jack GUI" folder and paste it into "self.directory". Seperate folders in your directory path with "/". This step is so that the script has access to the images used by the GUI.
 <p align="left"><img src="Images/Directory.JPG" width="50%" height="50%"></p>
 
-2- Run "Sudoku Solver GUI.py". The GUI window will display as shown below.<br/>
+3- Run "Black Jack GUI.py". The GUI window will open and display as shown below.<br/>
+<p align="left"><img src="Images/Menu.JPG" width="50%" height="50%"></p>
 
