@@ -18,7 +18,7 @@ This is a GUI Blackjack game. It is a simplified virsion of casino Blackjack. It
 4- To start playing click play and you will be brought to the table, as shown below! 
 <p align="middle"><img src="Images/Deal.JPG" width="75%" height="75%"></p>
 
-5- Enjoy the game!
+5- To start click deal and enjoy the game!
 
 # GUI Pictures
 1- Hitting
