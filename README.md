@@ -13,5 +13,5 @@ This is a GUI Blackjack game. It is a simplified virsion of casino Blackjack. It
 <p align="left"><img src="Images/Directory.JPG" width="75%" height="75%"></p>
 
 3- Run "Black Jack GUI.py". The GUI window will open and display as shown below.<br/>
-<p align="middle"><img src="Images/Menu.JPG" width="50%" height="50%"></p>
+<p align="middle"><img src="Images/Menu.JPG" width="75%" height="75%"></p>
 
